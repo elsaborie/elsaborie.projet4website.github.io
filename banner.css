@@ -1,0 +1,12 @@
+.banner {
+    text-align: center;
+    padding: 20px;
+    background-color: #eee;
+}
+
+.banner-image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 20px;
+}
